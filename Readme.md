@@ -16,4 +16,4 @@ Pronto. Agora basta inserir o endereço indicado pelo terminal no seu navegador 
 
 Para parar a execução basta clicar '_ctrl + c_'.
 
-**Obs: É um projeto simples de cadastro e então exibição dos dados. No momento ainda não possui as devidas verificações das entradas do usuário.
+**Obs: Este é um projeto simples de cadastro e exibição dos dados. No momento ainda não possui as devidas verificações e tratamentos dos dados de entrada.
