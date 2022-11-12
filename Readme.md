@@ -1,11 +1,11 @@
 ## Desafios - Rethink Academy
 
-7 desafios realizados utilizando apenas HTML, CSS e Javascript.
+7 desafios realizados utilizando apenas HTML, CSS e Javascript e também um projeto com React e Typescript.
 
+---
+### Como executar o projeto [_formulario-react_](https://github.com/ribYuri/challenge-Rethink-Academy/tree/main/01-formulario-react)
 
-### Como executar o projeto 'formulario-react'
-
-É preciso ter o [node.js](https://nodejs.org/en/) instalado na máquina (versão recomendada: LTS).
+É preciso ter o [node.js](https://nodejs.org/en/) instalado na máquina (versão recomendada: _LTS_).
 
 Para executar, basta abrir a pasta do projeto no VsCode e:
 
@@ -14,6 +14,6 @@ Para executar, basta abrir a pasta do projeto no VsCode e:
 
 Pronto. Agora basta inserir o endereço indicado pelo terminal no seu navegador e testar.
 
-Para parar a execução basta clicar 'ctrl + c'.
+Para parar a execução basta clicar '_ctrl + c_'.
 
 **Obs: É um projeto simples de cadastro e então exibição dos dados. No momento ainda não possui as devidas verificações das entradas do usuário.
