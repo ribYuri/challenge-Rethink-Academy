@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(241, 241, 241, 0.671);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tituloFormulario {
+    padding: 40px 0px 110px;
+    text-align: center;
+    color: white;
+    background: rgba(55, 0, 255, 0.788);
+}
+
+.formulario {
+    margin: -100px auto;
+    width: 350px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    border-radius: 10px;
+    box-shadow: 1px 2px 5px #00000029;
+
+}
+
+div.inputDados {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.botaoEnviar {
+    margin: 10px auto 0px;
+    padding: 6px;
+
+    background-color: rgba(223, 223, 223, 0.623);
+    border: none;
+    border-radius: 5px;
+
+    cursor: pointer;
+}
+
+input {
+    padding: 4px 0px 4px 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(231, 229, 229);
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    appearance: none;
+    margin: 0;
+}
+
+input[type=number] { 
+    -moz-appearance: textfield;
+    appearance: textfield;
+ }
+
+
+ .pessoas-cadastradas {
+    margin-top: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.pessoa {
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 5px #00000029;
+ }
