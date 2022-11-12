@@ -10,7 +10,8 @@
 Para executar, basta abrir a pasta do projeto no VsCode e:
 
 * Abrir um terminal  do VsCode (ou cmd na pasta do projeto)
-* Executar o comando `npm run dev`
+* Executar o comando `npm update` para que as dependências e o [vitejs](https://vitejs.dev/) (responsável pelo servidor) seja instalado
+* Agora, execute o comando `npm run dev`
 
 Pronto. Agora basta inserir o endereço indicado pelo terminal no seu navegador e testar.
 
